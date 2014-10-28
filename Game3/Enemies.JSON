@@ -2,7 +2,7 @@
 	"name" : "Bird",
 	"onScreen" : false,
 	"isAnchored" : false,
-	"x" : 423,
+	"x" : 600,
 	"y" : 220,
 	"height" : 96,
 	"width" : 64,
