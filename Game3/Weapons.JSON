@@ -1,0 +1,25 @@
+[{"name" : "Green Stick",
+"damage" : 10,
+"width" : 32,
+"height" : 32,
+"leftSSFileName" : "leftStick.png",
+"rightSSFileName" : "rightStick.png",
+"level" : 0,
+"x" : 167,
+"y" : 258,
+"isVisible": false,
+"isEquipped":false
+},
+{
+"name" : "Green Stick",
+"damage" : 10,
+"width" : 32,
+"height" : 32,
+"leftSSFileName" : "leftStick.png",
+"rightSSFileName" : "rightStick.png",
+"level" : 0,
+"x" : 1000,
+"y" : 500,
+"isVisible": false,
+"isEquipped":false
+}]

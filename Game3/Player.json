@@ -1,0 +1,22 @@
+{
+"name" : "Michael",
+"onScreen" : true,
+"isAnchored": false,
+"isVisible":true,
+"x" : 423,
+"y" : 220,
+"height": 50,
+"width" : 40,
+"spriteSheetDuration" : 150,
+"file" : "placeholder.png",
+"speedX" : 3.5,
+"speedY" : 9,
+"maximumHeight": 200,
+"health":100,
+"damage":10,
+"leftFile": "placeholder.png",
+"rightFile":"placeholder.png",
+"leftDuckingFile":"placeholder.png",
+"rightDuckingFile":"placeholder.png"
+
+}

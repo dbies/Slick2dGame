@@ -1,0 +1,63 @@
+{
+"menus" : 
+	[{
+	"menuFileName" : "mainMenu.png",
+	"selectionFileName" : "pointer.png",
+	"isVisible" : false,
+	"isSelecterVisible" : false,
+	"choices" : [
+		{"x" : 0,
+		"y":100,
+		"width" : 800,
+		"height" :30,
+		"action" : "Resume",
+		"fileName" : "Resume.png",
+		"isSelected":false,
+		"menuObject": "Resume"},
+		{"x" : 0,
+		"y" : 130,
+		"width" : 800,
+		"height": 30,
+		"action": "Exit",
+		"fileName" : "Exit.png",
+		"isSelected": false,
+		"menuObject": "Exit"}]
+	}],
+"weaponMenu":
+	{
+	"menuFileName" : "weaponMenu.png",
+	"selectionFileName" : "highlighterSquare.png",
+	"isVisible" : true,
+	"isSelecterVisible" : false,
+	"choices" : [
+		{"x" : 200,
+		"y" : 500,
+		"width" : 32,
+		"height" : 32,
+		"action" : "Equip",
+		"fileName" : "menuSquare.png",
+		"isSelected":false},
+		{"x" : 234,
+		"y" : 500,
+		"width" : 32,
+		"height" : 32,
+		"action" : "Equip",
+		"fileName" : "menuSquare.png",
+		"isSelected":false},
+		{"x" : 268,
+		"y" : 500,
+		"width" : 32,
+		"height" : 32,
+		"action" : "Equip",
+		"fileName" : "menuSquare.png",
+		"isSelected":false},
+		{"x" : 302,
+		"y" : 500,
+		"width" : 32,
+		"height" : 32,
+		"action" : "Equip",
+		"fileName" : "menuSquare.png",
+		"isSelected":false}
+		]
+	}
+}

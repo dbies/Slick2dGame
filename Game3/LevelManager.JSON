@@ -1,0 +1,10 @@
+{
+"currentLevel" : 0,
+"levels" : [{
+		"name" : "The Laboratory",
+		"levelNumber" : 0,
+		"gravity" : 3.7,
+		"blockMapFileName" : "/FirstArea.tmx",
+		"backMapFileName" : "/FirstArea.tmx"
+	}]
+}
